@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+#dragcho1, #dragcho2 {
+	width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0;
+}
+
+#dropbox  {
+	width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px;
+	margin-top: 300px;
+}
+  
